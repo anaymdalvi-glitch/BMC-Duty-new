@@ -1,0 +1,6 @@
+{
+  "name": "BMC Duty Calendar",
+  "description": "A fully customized calendar to track shift duties (Morning, Evening, Night) and plan holidays with live local events and upcoming holiday integration powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
